@@ -5,15 +5,15 @@ A comprehensive journey through Go programming concepts using Exercism's structu
 ## 📊 Progress Overview
 
 - **Total Exercises**: 141
-- **Completed**: 12 ✅
+- **Completed**: 13 ✅
 - **In Progress**: 0 🔄
 - **Available**: 113 📋
 - **Locked**: 17 🔒
-- **Progress**: 8.5%
+- **Progress**: 9.2%
 
 ## 🎯 Current Status
 
-### ✅ Completed Exercises (12)
+### ✅ Completed Exercises (13)
 
 | Exercise | Concept | Difficulty | Description |
 |----------|---------|------------|-------------|
@@ -28,6 +28,7 @@ A comprehensive journey through Go programming concepts using Exercism's structu
 | [Card Tricks](./card-tricks/) | Slices | Medium | Learn about slices by doing card tricks |
 | [Need For Speed](./need-for-speed/) | Structs | Medium | Learn about structs by racing RC cars |
 | [Bird Watcher](./bird-watcher/) | For Loops | Easy | Count birds in your garden with for loops |
+| [Lasagna Master](./lasagna-master/) | Variadic Functions | Easy | Dive deeper into Go functions while preparing lasagna |
 
 ## 🗺️ Go Learning Path & Concepts
 
@@ -48,6 +49,7 @@ A comprehensive journey through Go programming concepts using Exercism's structu
 - ✅ **Slices** - Dynamic arrays, append, and slice operations
 - ✅ **Structs** - Custom data types, fields, and methods
 - ✅ **For Loops** - Iteration and repetition patterns
+- ✅ **Variadic Functions** - Functions with variable arguments (`...`)
 
 ### 🟡 Currently Learning
 - 🎯 **Ready for next challenge** - All current exercises completed!
@@ -55,7 +57,7 @@ A comprehensive journey through Go programming concepts using Exercism's structu
 ### 🔴 Upcoming Core Concepts
 
 #### **Foundation Level (Next 2-3 weeks)**
-- 📋 **Variadic Functions** - Functions with variable arguments (`...`)
+
 - 📋 **Maps** - Key-value data structures
 - 📋 **Pointers** - Memory addresses and references (`*`, `&`)
 - 📋 **Methods** - Functions associated with types
