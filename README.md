@@ -18,9 +18,9 @@ A comprehensive learning roadmap for mastering **Go** and **Rust** through struc
 
 | Language | Completed | In Progress | Available | Locked | Total | Progress |
 |----------|-----------|-------------|-----------|--------|-------|----------|
-| **Go** | 12 ✅ | 0 🔄 | 113 📋 | 17 🔒 | 141 | 8.5% |
+| **Go** | 13 ✅ | 0 🔄 | 113 📋 | 17 🔒 | 141 | 9.2% |
 | **Rust** | 1 ✅ | 0 🔄 | 97 📋 | 0 🔒 | 98 | 1.0% |
-| **Total** | **13** | **0** | **210** | **17** | **239** | **5.4%** |
+| **Total** | **14** | **0** | **210** | **17** | **239** | **5.9%** |
 
 ## 🎯 Current Focus
 
@@ -160,8 +160,8 @@ exercism submit src/lib.rs # Submit solution
 ## 📈 Progress Tracking
 
 ### **Learning Metrics**
-- **Exercises Completed**: 13/239 (5.4%)
-- **Concepts Mastered**: 18+ across both languages
+- **Exercises Completed**: 14/239 (5.9%)
+- **Concepts Mastered**: 19+ across both languages
 - **Time Investment**: ~2-3 hours per week per language
 - **Consistency**: Daily practice goal
 
@@ -180,6 +180,7 @@ exercism submit src/lib.rs # Submit solution
 - ✅ **Slice Master**: Mastered dynamic arrays and collections
 - ✅ **Struct Master**: Mastered custom data types and methods
 - ✅ **Loop Master**: Mastered for loops and iteration patterns
+- ✅ **Function Master**: Mastered variadic functions and advanced function patterns
 - 🎯 **Ready for Next Level**: All current exercises completed!
 
 ### **Rust Achievements**
